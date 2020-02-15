@@ -1,0 +1,18 @@
+-
+  ros1_package_name: 'ar_track_alvar_msgs'
+  ros1_message_name: 'AlvarMarker'
+  ros2_package_name: 'ar_track_alvar_msgs'
+  ros2_message_name: 'AlvarMarker'
+  fields_1_to_2:
+    header: 'header'
+    id: 'id'
+    confidence: 'confidence'
+    pose: 'pose'
+-
+  ros1_package_name: 'ar_track_alvar_msgs'
+  ros1_message_name: 'AlvarMarkers'
+  ros2_package_name: 'ar_track_alvar_msgs'
+  ros2_message_name: 'AlvarMarkers'
+  fields_1_to_2:
+    header: 'header'
+    markers: 'markers'
